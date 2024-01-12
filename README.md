@@ -1,4 +1,4 @@
 # Calculadora
 
-Uma calculadora padrão com todas operações matemáticas
+Uma calculadora padrão com todas operações matemáticas.
 
